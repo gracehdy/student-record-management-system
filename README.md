@@ -1,6 +1,6 @@
 # Student Record Management System
 
-Aplikasi berbasis *command line* untuk mengelola data mahasiswa **BEE University**, dibangun menggunakan struktur data **B-Tree** yang diimplementasikan sendiri dari nol dalam bahasa C/C++. Proyek ini menunjukkan bagaimana B-Tree dapat dipakai untuk menyimpan, mencari, dan menghapus data secara efisien dengan struktur pohon yang selalu seimbang.
+Aplikasi berbasis *command line* untuk mengelola data mahasiswa **BEE University**, dibangun menggunakan struktur data **B-Tree** yang diimplementasikan sendiri dari nol dalam bahasa C. Proyek ini menunjukkan bagaimana B-Tree dapat dipakai untuk menyimpan, mencari, dan menghapus data secara efisien dengan struktur pohon yang selalu seimbang.
 
 ---
 
@@ -76,5 +76,5 @@ student_record.exe        # Windows
 
 ## Teknologi
 
-- Bahasa C/C++
+- Bahasa C
 - Struktur data B-Tree (implementasi manual dengan alokasi memori dinamis)
